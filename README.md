@@ -1,4 +1,4 @@
-<img src='https://cdn.discordapp.com/attachments/1169004916099002469/1175484712240828566/image.png?ex=65da2472&is=65c7af72&hm=94d9b100fb0cbe910b8805baf68662c27041c1cbb81c4c68b7e830bd32da8f0f&', width="100"><br>
+<img src='https://cdn.discordapp.com/attachments/1169004916099002469/1175484712240828566/image.png?ex=65da2472&is=65c7af72&hm=94d9b100fb0cbe910b8805baf68662c27041c1cbb81c4c68b7e830bd32da8f0f&', width="400"><br>
 ## About BeansSMP
 BeansSMP is a free minecraft 1.20.1 java survival server.<br>
 Currently we have 14 slots on the server.<br>
