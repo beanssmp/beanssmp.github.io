@@ -4,3 +4,5 @@ Currently we have 14 slots on the server.<br>
 IP: beanos-smp-2.feathermc.gg<br>
 Owner: Bananaman2160<br>
 RAM: 6GB<br>
+
+# Warp of the week!!
