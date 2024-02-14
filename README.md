@@ -6,3 +6,4 @@ Owner: Bananaman2160<br>
 RAM: 6GB<br>
 
 # Warp of the week!!
+<img src="https://cdn.discordapp.com/attachments/1169004916099002469/1175485548694089858/image.png?ex=65da253a&is=65c7b03a&hm=4f89a487bec1b22ab0c10500aae58e5b69e009c7a495c211597ce5d7adccd97c&">
